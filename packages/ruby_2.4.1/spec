@@ -1,5 +1,5 @@
 ---
-name: packages/ruby_2.4.1/
+name: ruby_2.4.1
 
 dependencies: []
 
