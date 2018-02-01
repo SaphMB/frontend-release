@@ -1,0 +1,21 @@
+name: frontend
+version: "1"
+commit_hash: 4fbad29
+uncommitted_changes: false
+jobs:
+- name: frontend
+  version: 66668d020f72fa68e3cf2f95486cb12108a336af
+  fingerprint: 66668d020f72fa68e3cf2f95486cb12108a336af
+  sha1: 8e741eb0f90b4e6e88b90e65c3155a39ac5d6ecc
+packages:
+- name: frontend
+  version: 3e0cb1cbce1a48260347b4459fb4cdb5ae246c53
+  fingerprint: 3e0cb1cbce1a48260347b4459fb4cdb5ae246c53
+  sha1: d7feb37d01053cfece3b48528078a4f0e7b84a7b
+  dependencies:
+  - ruby_2.4.1
+- name: ruby_2.4.1
+  version: 0680533c3a8b2931b83fef07a10ca7f7b533bf23
+  fingerprint: 0680533c3a8b2931b83fef07a10ca7f7b533bf23
+  sha1: d63ee9fe814aee03ea9a1625524649b0f7c2d71d
+  dependencies: []
